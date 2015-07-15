@@ -1,0 +1,4 @@
+Bundle 'fatih/vim-go'
+Bundle 'ryanoasis/vim-webdevicons'
+Bundle 'itchyny/lightline.vim'
+Bundle 'Xuyuanp/nerdtree-git-plugin'
